@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kehilangan">
+
+        <EditText
+            android:id="@+id/textView5"
+            android:layout_width="269dp"
+            android:layout_height="40dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="126dp"
+            tools:layout_editor_absoluteY="29dp" />
+
+        <EditText
+            android:id="@+id/textView17"
+            android:layout_width="271dp"
+            android:layout_height="39dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="124dp"
+            tools:layout_editor_absoluteY="89dp" />
+
+        <EditText
+            android:id="@+id/textView6"
+            android:layout_width="269dp"
+            android:layout_height="38dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="126dp"
+            tools:layout_editor_absoluteY="152dp" />
+
+        <EditText
+            android:id="@+id/textView7"
+            android:layout_width="271dp"
+            android:layout_height="45dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="124dp"
+            tools:layout_editor_absoluteY="214dp" />
+
+        <EditText
+            android:id="@+id/textView8"
+            android:layout_width="275dp"
+            android:layout_height="50dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="120dp"
+            tools:layout_editor_absoluteY="283dp" />
+
+        <EditText
+            android:id="@+id/textView9"
+            android:layout_width="277dp"
+            android:layout_height="50dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="360dp" />
+
+        <EditText
+            android:id="@+id/textView10"
+            android:layout_width="269dp"
+            android:layout_height="42dp"
+            android:text="Edit Text"
+            tools:layout_editor_absoluteX="126dp"
+            tools:layout_editor_absoluteY="440dp" />
+
+        <TextView
+            android:id="@+id/textVie11"
+            android:layout_width="102dp"
+            android:layout_height="36dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="29dp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="152dp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="283dp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="444dp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="221dp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="360dp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="98dp"
+            android:layout_height="38dp"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="90dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
